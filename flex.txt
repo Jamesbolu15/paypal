@@ -3,3 +3,5 @@ going to the remote
 and i want to make edit 
 and push back
 and let fetch
+
+and make a new tag
